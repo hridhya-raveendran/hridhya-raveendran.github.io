@@ -4,22 +4,22 @@
   video_id: "1lfthihBbWUen630Uc7PHHF_k_kkSEjFv"
   thumbnail: "assets/images/thumb-death.jpg"
 
-- title: "Baburoa In Love With Ella"
-  description: "Shortfilm | Marathi"
+- title: "CHAVU KALYANAM/ CELEBRATION OF DEATH"
+  description: "Feature film | Malayalam | Official Selection - 30TH International Film Festival of Kerala "
   video_type: "gdrive"
-  video_id: "1Bpva0PBTGv0zGnVvvQYul4Azkpy5ft5z" # Replace with your actual Vimeo video ID
+  video_id: "https://drive.google.com/file/d/1HVVOheeaHYLzS3VPyc3PTKATmecTJ7vQ/view?usp=sharing" # Replace with your actual Vimeo video ID
   thumbnail: "assets/images/thumb-death.jpg"
 
-- title: "Dine Kharabele"
-  description: "Shortfilm | Odia"
+- title: "LULLABIES OF THE VALLEY"
+  description: "Shortfilm | Tamil | Official Selection - 17TH International Documentary and Short Film Festival Of Kerala "
   video_type: "gdrive"
-  video_id: "14XD5321KKwGzVZ5C1gKO-yFFUdj1O6-4" # Replace with your Google Drive File ID
+  video_id: "https://drive.google.com/file/d/1gppL7Do27UAX9uo8ITVpP2xi6nDXKcfL/view?usp=sharing" # Replace with your Google Drive File ID
   thumbnail: "assets/images/thumb-death.jpg"
 
-- title: "Yayati Katha"
-  description: "Shortfilm | Hindi | Official Selection - 2024 Bangalore International Film Festival"
-  video_type: "youtube"
-  video_id: "fLdtErsmBjg"
+- title: "SAUDA"
+  description: "Shortfilm | Hindi "
+  video_type: "gdrive"
+  video_id: "https://drive.google.com/file/d/1shW-CUnyWYlM2B3wiNEDaMI8EWeUeZvB/view?usp=sharing"
   thumbnail: "assets/images/thumb-death.jpg"
 
 - title: "Jag Darshan Ka Mela | Murshidabadi | Kaushik-Guddu"
