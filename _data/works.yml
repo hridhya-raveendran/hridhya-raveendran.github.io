@@ -2,7 +2,7 @@
   description: "Short Film | Malayalam | LOCATION RECORDIST | SOUND DESIGN AND MIX "
   video_type: "gdrive"
   video_id: "16JIwDmyRxzr98aOgnaXBU6niI6z1Nu6y"
-  thumbnail: "assets/images/thumb-death.jpg"
+  thumbnail: "assets/images/velicham.png"
 
 - title: "CHAVU KALYANAM/ CELEBRATION OF DEATH"
   description: "Feature film | Malayalam | LOCATION RECORDIST | Official Selection - 30TH International Film Festival of Kerala "
@@ -27,3 +27,15 @@
   video_type: "gdrive"
   video_id: "1lzROku-Fda0lco5YnclWKVZ9C8_6Kqkc"
   thumbnail: "assets/images/WhatsApp Image 2024-08-21 at 12.12.27 AM.jpeg"
+
+- title: "LAKSHMI SILKS AD"
+  description: "AD| LOCATION RECORDIST "
+  video_type: "youtube"
+  video_id: "K6j3mg25lZQ?si=FNSbCehqiw3X0Ydf"
+  thumbnail: "assets/images/LAKSHMI SILKS AD.png"
+  
+- title: "TIME OUT"
+  description: "SHORT FILM | SOUND EDITOR"
+  video_type: "gdrive"
+  video_id: "1kfZg04gOrTXUoLNQHJ0AeY8sbFsckNke"
+  thumbnail: "assets/images/Time Out.png"
