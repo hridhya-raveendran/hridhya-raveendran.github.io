@@ -1,13 +1,19 @@
-- title: "VELICHAM"
+  - title: "VELICHAM"
   description: "Short Film | Malayalam | LOCATION RECORDIST | SOUND DESIGN AND MIX "
   video_type: "gdrive"
   video_id: "16JIwDmyRxzr98aOgnaXBU6niI6z1Nu6y"
   thumbnail: "assets/images/velicham.png"
 
+  - title: "LAKSHMI SILKS AD"
+  description: "AD| LOCATION RECORDIST "
+  video_type: "youtube"
+  video_id: "K6j3mg25lZQ?si=FNSbCehqiw3X0Ydf"
+  thumbnail: "assets/images/LAKSHMI SILKS AD.png"
+
 - title: "CHAVU KALYANAM/ CELEBRATION OF DEATH"
   description: "Feature film | Malayalam | LOCATION RECORDIST | Official Selection - 30TH International Film Festival of Kerala "
-  video_type: "gdrive"
-  video_id: "1HVVOheeaHYLzS3VPyc3PTKATmecTJ7vQ" # Replace with your actual Vimeo video ID
+  video_type: "youtube"
+  video_id: "6MrenyjAUDc?si=NLz_da8zYqlH_9Gh"
   thumbnail: "assets/images/chavukalyanam.jpeg"
 
 - title: "LULLABIES OF THE VALLEY"
@@ -28,14 +34,20 @@
   video_id: "1lzROku-Fda0lco5YnclWKVZ9C8_6Kqkc"
   thumbnail: "assets/images/WhatsApp Image 2024-08-21 at 12.12.27 AM.jpeg"
 
-- title: "LAKSHMI SILKS AD"
-  description: "AD| LOCATION RECORDIST "
-  video_type: "youtube"
-  video_id: "K6j3mg25lZQ?si=FNSbCehqiw3X0Ydf"
-  thumbnail: "assets/images/LAKSHMI SILKS AD.png"
-  
+- title: "AD | BLINK IT"
+  description: "AD | SOUND DESIGN "
+  video_type: "Youtube"
+  video_id: "hdIujIOtYCI?si=vLJM-X2ScB_F6ur7"
+  thumbnail: "assets/images/blinkit.png"
+
 - title: "TIME OUT"
   description: "SHORT FILM | SOUND EDITOR"
   video_type: "gdrive"
-  video_id: "1kfZg04gOrTXUoLNQHJ0AeY8sbFsckNke"
+  video_id: "1IznSPIxfJrlIkxL3WDMwX6wUIU1Yp664"
   thumbnail: "assets/images/Time Out.png"
+
+  - title: "AMAZON ALEXA | AD"
+  description: "AD | SOUND DESIGN "
+  video_type: "Vimeo"
+  video_id: "https://vimeo.com/1198500771?fl=pl&fe=sh"
+  thumbnail: "assets/images/alexa.png"
